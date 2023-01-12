@@ -461,25 +461,6 @@ Screen - Game
     background-image: url('../assets/pipe-up.png');
 }
 
-#footer {
-    padding:5px;
-    bottom: 3px;
-    left: 3px;
-    color: wheat;
-    font-size: .9rem;
-    
-    text-align: center;
-}
-
-#footer a,
-#footer a:link,
-#footer a:visited,
-#footer a:hover,
-#footer a:active {
-    padding: 2px;
-    text-decoration: none;
-    color: wheat;
-}
 
 .resp-sharing-button__link,
 .resp-sharing-button__icon {
